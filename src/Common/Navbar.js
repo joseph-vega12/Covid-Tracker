@@ -1,4 +1,4 @@
-import { Box, AppBar, Toolbar, IconButton, Typography } from "@mui/material";
+import { AppBar, Toolbar, IconButton, Typography } from "@mui/material";
 import { styled } from "@mui/material/styles";
 import CovidIcon from "../Images/CovidIcon.png";
 
